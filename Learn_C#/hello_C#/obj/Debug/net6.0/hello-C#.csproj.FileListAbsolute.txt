@@ -1,0 +1,15 @@
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/hello-C#
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/hello-C#.deps.json
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/hello-C#.runtimeconfig.json
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/hello-C#.dll
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/ref/hello-C#.dll
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/bin/Debug/net6.0/hello-C#.pdb
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.csproj.AssemblyReference.cache
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.AssemblyInfoInputs.cache
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.AssemblyInfo.cs
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.csproj.CoreCompileInputs.cache
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.dll
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/ref/hello-C#.dll
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.pdb
+/home/exdragine/Cookie-Can/Learn C#/hello-C#/obj/Debug/net6.0/hello-C#.genruntimeconfig.cache

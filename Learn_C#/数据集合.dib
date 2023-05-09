@@ -1,0 +1,57 @@
+#!csharp
+
+var names = new List<string> {"S-E10A","S-117","S-B312"};
+foreach (var name in names){
+    Console.WriteLine($"Hello {name.ToUpper()}");
+}
+
+#!csharp
+
+Console.WriteLine();
+names.Add("1337");
+names.Add("034");
+names.Remove("S-B312");
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+
+#!csharp
+
+Console.WriteLine($"My name is {names[0]}.");
+Console.WriteLine($"I've added {names[2]} and {names[3]} to the list.");
+
+#!csharp
+
+Console.WriteLine($"The list has {names.Count} people in it");
+
+#!csharp
+
+var index = names.IndexOf("S-B312");
+if (index != -1)
+  Console.WriteLine($"The name {names[index]} is at index {index}");
+
+var notFound = names.IndexOf("Not Found");
+Console.WriteLine($"When an item is not found, IndexOf returns {notFound}");
+
+#!csharp
+
+names.Sort();
+foreach (var name in names)
+{
+  Console.WriteLine($"Hello {name.ToUpper()}!");
+}
+
+#!csharp
+
+var fibonacciNumbers = new List<int> {1, 1};
+
+while (fibonacciNumbers.Count < 20)
+{
+    var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
+    var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+    fibonacciNumbers.Add(previous + previous2);
+}
+foreach(var item in fibonacciNumbers)
+    Console.WriteLine(item);

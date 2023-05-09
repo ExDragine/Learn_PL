@@ -1,0 +1,58 @@
+#!csharp
+
+int a = 5;
+int b = 3;
+int c = 4;
+if ((a + b + c > 10) || (a == b))
+{
+    Console.WriteLine("The answer is greater than 10");
+    Console.WriteLine("Or the first number is equal to the second");
+}
+else
+{
+    Console.WriteLine("The answer is not greater than 10");
+    Console.WriteLine("And the first number is not equal to the second");
+}
+
+#!csharp
+
+int counter = 0;
+while (counter < 10)
+{
+  Console.WriteLine($"Hello World! The counter is {counter}");
+  counter++;
+}
+
+#!csharp
+
+int counter = 0;
+do
+{
+  Console.WriteLine($"Hello World! The counter is {counter}");
+  counter++;
+} while (counter < 10);
+
+#!csharp
+
+for(int counter = 0; counter < 10; counter++)
+{
+  Console.WriteLine($"Hello World! The counter is {counter}");
+}
+
+#!csharp
+
+for (int row = 1; row < 11; row++)
+{
+  for (char column = 'a'; column < 'k'; column++)
+  {
+    Console.WriteLine($"The cell is ({row}, {column})");
+  }
+}
+
+#!csharp
+
+for (int i =1;i<21;i++){
+    if (i%3==0){
+        Console.WriteLine(i);
+    }
+}
