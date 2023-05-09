@@ -1,5 +1,7 @@
 fn main() {
-    let a = 117;
-    let b = "B-312";
-    println!("a is {0},b is {1}", a, b);
+    let a = 1;
+    let b = 17.0;
+    let c = "你好！";
+    println!("{2}{0}{1}", a, b as i32, c);
+    println!("I'm a Spartan")
 }
